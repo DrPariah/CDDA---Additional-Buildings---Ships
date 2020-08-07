@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "Ships",
+    "name": "Ships From Oa Additional Buildings 0.E Version",
+    "authors": ["Oa", "Nonesuch"],
+    "description": "Just a load of ship here, 0.E compatible.",
+    "category": "buildings",
+    "version": "1.3",
+    "dependencies": ["dda"]
+  }
+]
